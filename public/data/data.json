@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Dashboard",
+      "href": "/",
+      "icon": "House"
+    },
+    {
+      "name": "Products",
+      "href": "/products",
+      "icon": "ShoppingBag"
+    },
+    {
+      "name": "Clients",
+      "href": "/clients",
+      "icon": "Users"
+    },
+    {
+      "name": "Sales",
+      "href": "/sales",
+      "icon": "DollarSign"
+    },
+    {
+      "name": "Orders",
+      "href": "/orders",
+      "icon": "ShoppingCart"
+    },
+    {
+      "name": "Settings",
+      "href": "/settings",
+      "icon": "Settings"
+    },
+    {
+      "name": "Messages",
+      "href": "/messages",
+      "icon": "Mail"
+    },
+    {
+      "name": "Notifications",
+      "href": "/notifications",
+      "icon": "Bell"
+    },
+    {
+      "name": "Help",
+      "href": "/help",
+      "icon": "Info"
+    }
+  ]
+  
